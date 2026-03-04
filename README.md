@@ -44,7 +44,9 @@ Clone the repository:
 ----
 
 #bash
+
 git clone https://github.com/arnavsharma-ind/ai_consultant.git
+
 cd ai_consultant
 
 #Install dependencies
